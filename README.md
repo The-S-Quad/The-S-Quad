@@ -9,28 +9,10 @@ We are group of folks having a common goal to improve the public sector by inova
 
 
 ## Meet Our Team
-<div class="members" style="display:flex; direction:row;">
-    <a href="https://www.linkedin.com/in/sarvin-shrivastava-493b20176/" class="container" style="padding:0px 10px; text-align:center;">
-        <img style="width:10rem; border-radius:5rem;" src="./assets/sarvin.jpg"/>
-        <br>
-        <strong style="color:white;">Sarvin Shrivastava</strong>
-    </a>
-    <a href="https://www.linkedin.com/in/satyagyasingh/" class="container" style="padding:0px 10px; text-align:center;">
-        <img style="width:10rem; border-radius:5rem;" src="./assets/satyagya.jpeg"/>
-        <br>
-        <strong style="color:white;">Satyagya Singh</strong>
-    </a>
-    <a href="https://www.linkedin.com/in/satyam-balaiwar-46617b244/" class="container" style="padding:0px 10px; text-align:center;">
-        <img style="width:10rem; border-radius:5rem;" src="./assets/satyam.jpeg"/>
-        <br>
-        <strong style="color:white;">Satyam Balaiwar</strong>
-    </a>
-    <a href="https://www.linkedin.com/in/shashwatrai05/" class="container" style="padding:0px 10px;text-align:center;">
-        <img style="width:10rem; border-radius:5rem;" src="./assets/shashwat.jpg"/>
-        <br>
-        <strong style="color:white;">Shashwat Rai</strong>
-    </a>
-</div>
+
+| <img src="./assets/sarvin.jpg" width="150" style="border-radius: 50%;" /> <br> [Sarvin Shrivastava](https://www.linkedin.com/in/sarvin-shrivastava-493b20176/) | <img src="./assets/satyagya.jpeg" width="150" style="border-radius: 50%;" /> <br> [Satyagya Singh](https://www.linkedin.com/in/satyagyasingh/) | <img src="./assets/satyam.jpeg" width="150" style="border-radius: 50%;" /> <br> [Satyam Balaiwar](https://www.linkedin.com/in/satyam-balaiwar-46617b244/) | <img src="./assets/shashwat.jpg" width="150" style="border-radius: 50%;" /> <br> [Shashwat Rai](https://www.linkedin.com/in/shashwatrai05/) |
+|:--:|:--:|:--:|:--:|
+
 
 ## 🚀 Projects We're Working On
 
